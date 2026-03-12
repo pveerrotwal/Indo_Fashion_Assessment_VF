@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Data (large/private)
+data/
+
+# Large model artifacts
+outputs/checkpoints/
+
+# Keep for reporting/submission
+# outputs/logs/
+# outputs/plots/
