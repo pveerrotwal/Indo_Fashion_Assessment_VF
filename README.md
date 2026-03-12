@@ -95,7 +95,7 @@ This project builds a production-style deep learning pipeline to classify Indian
 - Training reached strong performance by epoch 5; full-backbone fine-tuning from epoch 6 onward was significantly slower on CPU.
 
 ### Plots
-- Training Curves: <img width="4200" height="1500" alt="image" src="https://github.com/user-attachments/assets/a9174320-6e9f-41a1-9e37-7ee18434c5ae" />
+- Training Curves: <img width="420" height="150" alt="image" src="https://github.com/user-attachments/assets/a9174320-6e9f-41a1-9e37-7ee18434c5ae" />
 
 - Confusion Matrix: <img width="3900" height="3000" alt="image" src="https://github.com/user-attachments/assets/9569a3a9-dd71-41b0-a950-fdc08a2ba6ac" />
 
